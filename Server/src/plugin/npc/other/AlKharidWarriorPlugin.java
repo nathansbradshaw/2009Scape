@@ -88,7 +88,7 @@ public final class AlKharidWarriorPlugin extends AbstractNPC {
 							continue;
 						}
 						if (n.getId() == 18) {
-							n.sendChat("Brother, I will help thee with this infidel!");
+							n.sendChat("ALLA AKBAR!!");
 							n.getProperties().getCombatPulse().attack(player);
 						}
 					}
