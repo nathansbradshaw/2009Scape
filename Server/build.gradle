@@ -31,6 +31,13 @@ dependencies {
 
 
 jar {
+    manifest {
+        attributes "Main-Class": "org.crandor.Server"
+    }
+
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
     baseName = 'server'
-    version =  '1.0.0'
+    version =  '1.0.1'
 }
