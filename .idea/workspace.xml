@@ -20,23 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfca1f7e-8542-4720-8cd4-dc28d3685749" name="Default Changelist" comment="closes #359">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/data/eco/grand_exchange_db.emp" beforeDir="false" afterPath="$PROJECT_DIR$/Server/data/eco/grand_exchange_db.emp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/member/slayer/Equipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/member/slayer/Equipment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/member/slayer/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/member/slayer/Master.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/member/slayer/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/member/slayer/Tasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/src/plugin/skill/slayer/SlayerMasterDialogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/plugin/skill/slayer/SlayerMasterDialogue.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/CompiledServer/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Client/src/main/" />
+    <ignored path="$PROJECT_DIR$/Server/src/main/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,55 +49,158 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clanname</find>
+      <find>itemdef</find>
+      <find>eat</find>
+      <find>properties</find>
+      <find>cs2</find>
+      <find>opcode</find>
+      <find>commands</find>
+      <find>275</find>
+      <find>99</find>
+      <find>perk</find>
+      <find>powerpoin</find>
+      <find>hasPerk(</find>
+      <find>hasPerk(Perks.B</find>
+      <find>sql</find>
+      <find>workfor</find>
+      <find>trade</find>
+      <find>xp</find>
+      <find>nothing</find>
+      <find>relic</find>
+      <find>skill</find>
+      <find>level</find>
+      <find>pet</find>
+      <find>boss pet</find>
+      <find>questp</find>
+      <find>credit</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\cs246\2009Scapeclone</dir>
+      <dir>D:\cs246\2009Scapeclone\Server\src\org\crandor</dir>
+      <dir>D:\cs246\2009Scapeclone\Server</dir>
+      <dir>D:\cs246\2009Scapeclone\Server\src</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="JRebelWorkspace">
-    <option name="jrebelEnabledAutocompile" value="true" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Server/src/plugin/consumable/PerkConsumablePlugin.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/cache/def/impl/ItemDefinition.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/activity/gwd/GodwarsMapzone.java" />
+        <option value="$PROJECT_DIR$/telecoordinates" />
+        <option value="$PROJECT_DIR$/dumps/scripts/2788.cs2" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/link/spawn/SpawnData.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/info/portal/Perks.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/zone/GrandExchangeZone.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/npc/drop/NPCDropTables.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/info/portal/PortalShop.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/npc/NPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/dialogue/RellycDialogue.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/Server.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/GiantMoleNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/Skills.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/KalphiteQueenNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/TormentedDemonNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/KingBlackDragonNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/CrazyArchaeologistNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/ChaosElementalNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/venenatis/VenenatisNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/callisto/CallistoNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/corp/CorporealBeastNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/npc/bosses/kraken/KrakenNPC.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/LevelUp.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/content/global/SkillingPets.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/content/global/BossKillCounter.java" />
+        <option value="$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/link/quest/Quest.java" />
+        <option value="$PROJECT_DIR$/Server/src/plugin/command/PlayerCommandPlugin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3832" />
+    <option name="y" value="706" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectId" id="1bYCm5V4l5tzxWNF9qvLwLE4J3D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2009Scapeclone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2009Scapeclone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2009Scapeclone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2009Scapeclone" type="462c0819:PsiDirectoryNode" />
+              <item name="Server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Client592" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1646489" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RebelAgentSelection">
-    <selection>jr</selection>
+    <selection>jxr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\split\Documents\GitHub\2009Scape\Tools\Arios Editor\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Server">
-    <configuration name="GameLaunch (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.keldagrim.GameLaunch" />
-      <module name="Arios Client" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.keldagrim.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GameLaunch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GameLaunch">
+    <configuration name="GameLaunch" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.runite.GameLaunch" />
       <module name="RS-2009" />
       <extension name="coverage">
@@ -119,19 +226,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arios.Runner" />
-      <module name="Arios Editor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.arios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.crandor.Server" />
       <module name="RS-2009" />
@@ -146,20 +240,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FrostyCacheEditor.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Tools/!Some Options Do NOT Work! FrostyCacheEditor/FrostyCacheEditor.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="!Most Compatible One! RSDataSuite v1.2.2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Tools/!Most Compatible One! RSDataSuite v1.2.2.jar" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Application.GameLaunch (1)" />
+      <item itemvalue="Application.Server" />
       <item itemvalue="Application.GameLaunch" />
       <item itemvalue="Application.Management" />
-      <item itemvalue="Application.Runner" />
-      <item itemvalue="Application.Server" />
+      <item itemvalue="JAR Application.!Most Compatible One! RSDataSuite v1.2.2.jar" />
+      <item itemvalue="JAR Application.FrostyCacheEditor.jar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Server" />
         <item itemvalue="Application.GameLaunch" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.Management" />
-        <item itemvalue="Application.GameLaunch (1)" />
-        <item itemvalue="Application.Runner" />
+        <item itemvalue="JAR Application.FrostyCacheEditor.jar" />
+        <item itemvalue="JAR Application.!Most Compatible One! RSDataSuite v1.2.2.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +275,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584054963180</updated>
+      <workItem from="1590867376015" duration="294000" />
+      <workItem from="1590886966062" duration="192000" />
+      <workItem from="1590887182680" duration="4832000" />
+      <workItem from="1590976538201" duration="36322000" />
+      <workItem from="1591106302322" duration="32837000" />
+      <workItem from="1591189173732" duration="4404000" />
+      <workItem from="1591197146120" duration="8562000" />
+      <workItem from="1591320854745" duration="1441000" />
+      <workItem from="1591322401654" duration="402000" />
+      <workItem from="1591465753526" duration="1370000" />
+      <workItem from="1591732902526" duration="9399000" />
+      <workItem from="1591832302418" duration="18218000" />
+      <workItem from="1591853054355" duration="658000" />
+      <workItem from="1591886465388" duration="1239000" />
+      <workItem from="1591894069495" duration="211000" />
+      <workItem from="1591894362396" duration="477000" />
+      <workItem from="1591894840866" duration="715000" />
     </task>
     <task id="LOCAL-00001" summary="Working on debug of client shift drop">
       <created>1585444703796</created>
@@ -205,6 +324,9 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34130000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -214,17 +336,78 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="ToolWindowManager">
+    <frame x="3832" y="706" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18004769" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2314887" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5550122" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32969603" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="5" weight="0.3860465" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -236,26 +419,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="closes #359" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="4574" y="1069" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591211773436">
+      <screen x="3840" y="714" width="2560" height="1400" />
+    </state>
+    <state x="4574" y="1069" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194/3840.714.2560.1400@3840.714.2560.1400" timestamp="1591211773436" />
     <state x="431" y="190" width="496" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588905208285">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="431" y="190" width="496" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1588905208285" />
-    <state width="639" height="171" key="GridCell.Tab.0.bottom" timestamp="1588898041866">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="4900" y="1169" key="FileChooserDialogImpl" timestamp="1591211648127">
+      <screen x="3840" y="714" width="2560" height="1400" />
+    </state>
+    <state x="4900" y="1169" key="FileChooserDialogImpl/0.0.2194.1194/3840.714.2560.1400@3840.714.2560.1400" timestamp="1591211648127" />
+    <state width="2517" height="241" key="GridCell.Tab.0.bottom" timestamp="1591231818907">
+      <screen x="3840" y="714" width="2560" height="1400" />
     </state>
     <state width="639" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588898041866" />
-    <state width="639" height="171" key="GridCell.Tab.0.center" timestamp="1588898041865">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="2151" height="241" key="GridCell.Tab.0.bottom/0.0.2194.1194/3840.714.2560.1400@0.0.2194.1194" timestamp="1591231206058" />
+    <state width="2517" height="241" key="GridCell.Tab.0.bottom/0.0.2194.1194/3840.714.2560.1400@3840.714.2560.1400" timestamp="1591231818907" />
+    <state width="2517" height="241" key="GridCell.Tab.0.center" timestamp="1591231818906">
+      <screen x="3840" y="714" width="2560" height="1400" />
     </state>
     <state width="639" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588898041865" />
-    <state width="639" height="171" key="GridCell.Tab.0.left" timestamp="1588898041865">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="2151" height="241" key="GridCell.Tab.0.center/0.0.2194.1194/3840.714.2560.1400@0.0.2194.1194" timestamp="1591231206058" />
+    <state width="2517" height="241" key="GridCell.Tab.0.center/0.0.2194.1194/3840.714.2560.1400@3840.714.2560.1400" timestamp="1591231818906" />
+    <state width="2517" height="241" key="GridCell.Tab.0.left" timestamp="1591231818906">
+      <screen x="3840" y="714" width="2560" height="1400" />
     </state>
     <state width="639" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588898041865" />
-    <state width="639" height="171" key="GridCell.Tab.0.right" timestamp="1588898041865">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="2151" height="241" key="GridCell.Tab.0.left/0.0.2194.1194/3840.714.2560.1400@0.0.2194.1194" timestamp="1591231206058" />
+    <state width="2517" height="241" key="GridCell.Tab.0.left/0.0.2194.1194/3840.714.2560.1400@3840.714.2560.1400" timestamp="1591231818906" />
+    <state width="2517" height="241" key="GridCell.Tab.0.right" timestamp="1591231818906">
+      <screen x="3840" y="714" width="2560" height="1400" />
     </state>
     <state width="639" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588898041865" />
+    <state width="2151" height="241" key="GridCell.Tab.0.right/0.0.2194.1194/3840.714.2560.1400@0.0.2194.1194" timestamp="1591231206058" />
+    <state width="2517" height="241" key="GridCell.Tab.0.right/0.0.2194.1194/3840.714.2560.1400@3840.714.2560.1400" timestamp="1591231818906" />
     <state x="187" y="19" width="992" height="733" key="SettingsEditor" timestamp="1588840363035">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -272,6 +471,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="168" y="120" width="1324" height="730" key="dock-window-1/0.0.1366.768@0.0.1366.768" timestamp="1588905613919" />
+    <state x="4827" y="1016" width="585" height="795" key="find.popup" timestamp="1591198971964">
+      <screen x="3840" y="714" width="2560" height="1400" />
+    </state>
+    <state x="4827" y="1016" width="585" height="795" key="find.popup/0.0.2194.1194/3840.714.2560.1400@3840.714.2560.1400" timestamp="1591198971964" />
     <state x="117" y="8" width="1123" height="755" key="new project wizard" timestamp="1588904115910">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -284,6 +487,77 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1588917312368" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/Skills.java</url>
+          <line>313</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/tutorial/BasicStarter.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/tools/LastNameFirstNameP9A.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/tools/ItemNames.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/cache/CacheFileManager.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/cache/CacheFile.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/cache/Cache.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/link/SavedData.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/component/Component.java" />
+    <entry file="file://$PROJECT_DIR$/Potential2009WebsiteSource/Potential2009WebsiteSource/acp/index.html" />
+    <entry file="file://$PROJECT_DIR$/Potential2009WebsiteSource/Potential2009WebsiteSource/forums/index.php" />
+    <entry file="file://$PROJECT_DIR$/Potential2009WebsiteSource/Potential2009WebsiteSource/includes/webclient_links.php" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/link/spawn/SpawnData.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/content/global/shop/Shop.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/npc/drop/NPCDropTables.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="171" column="12" selection-start-line="171" selection-start-column="12" selection-end-line="171" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/Player.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/activity/jobs/WorkForOptionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/dialogue/HansDialoguePlugin.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/impl/PulseManager.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/GiantMoleNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/KalphiteQueenNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/TzRekJadNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/CrazyArchaeologistNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/venenatis/VenenatisNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/corp/CorporealBeastNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/KingBlackDragonNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/callisto/CallistoNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/kraken/KrakenNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/wilderness/ChaosElementalNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/npc/NPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/npc/bosses/TormentedDemonNPC.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/skill/slayer/SlayerMasterDialogue.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/SkillBonus.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/free/gather/mining/MiningSkillPulse.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/member/summoning/pet/Pets.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/link/quest/QuestRepository.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/link/quest/Quest.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/content/global/BossKillCounter.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/content/global/SkillingPets.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/LevelUp.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/activity/gwd/GodwarsMapzone.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/Server.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/zone/GrandExchangeZone.java" />
+    <entry file="file://$PROJECT_DIR$/Server/global.sql/global.sql" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/content/skill/Skills.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/npc/drop/DropFrequency.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/dialogue/RellycDialogue.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/dialogue/KarenDialogue.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/info/portal/PortalShop.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/org/crandor/game/node/entity/player/info/portal/Perks.java" />
+    <entry file="file://$PROJECT_DIR$/Server/src/plugin/command/PlayerCommandPlugin.java" />
   </component>
   <component name="masterDetails">
     <states>
@@ -334,7 +608,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Arios Client</last-edited>
+          <last-edited>RS-2009</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
